@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.exe
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.deps.json
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.runtimeconfig.json
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.runtimeconfig.dev.json
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.dll
+C:\Users\user\Desktop\PRINCO\String2Int\bin\Debug\netcoreapp3.1\String2Int.pdb
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.AssemblyInfo.cs
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.dll
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.pdb
+C:\Users\user\Desktop\PRINCO\String2Int\obj\Debug\netcoreapp3.1\String2Int.genruntimeconfig.cache
